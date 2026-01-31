@@ -1,2 +1,2 @@
 # Data-Structures-Problem-Solving
-Practice coding problems on Data Structures and algorithms
+Practice coding problems on Data Structures and algorithms.
